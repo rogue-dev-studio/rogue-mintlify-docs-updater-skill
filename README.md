@@ -4,7 +4,7 @@
 
 Maintain this repository's Mintlify documentation from uploaded Markdown files. Use when asked to add, update, or organize docs pages in `docs/`, place new content under `get_started`, `core`, `core/models`, or `troubleshooting`, and keep `docs/docs.json` navigation in sync with new pages.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `mintlify-docs-updater`
 
 ## Install
